@@ -1,4 +1,4 @@
-// namespace MyWebApi.Endpoints.WeatherEndpoints;
+namespace MyWebApi.Endpoints.WeatherEndpoints;
  
 public class GetRequest
 {

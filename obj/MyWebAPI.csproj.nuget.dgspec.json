@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.Identity.Web": {
               "target": "Package",
               "version": "[2.19.1, )"
@@ -54,6 +58,10 @@
             "Microsoft.IdentityModel.Logging": {
               "target": "Package",
               "version": "[7.6.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             },
             "fastendpoints": {
               "target": "Package",
