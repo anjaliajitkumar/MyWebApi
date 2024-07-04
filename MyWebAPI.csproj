@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
     <PackageReference Include="Microsoft.Identity.Web" Version="2.19.1" />
     <PackageReference Include="Microsoft.IdentityModel.Logging" Version="7.6.2" />
+    <PackageReference Include="NSwag.AspNetCore" Version="14.0.8" />
     <PackageReference Include="serilog" Version="4.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>

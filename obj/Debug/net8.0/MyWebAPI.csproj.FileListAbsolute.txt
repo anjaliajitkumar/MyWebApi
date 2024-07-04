@@ -74,3 +74,9 @@ C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample
 C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AnjalyAjith(Contract\OneDrive - Bytestrone India Pvt Ltd\Desktop\Sample\MyWebAPI\obj\Debug\net8.0\MyWebAPI.sourcelink.json
